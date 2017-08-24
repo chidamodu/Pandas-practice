@@ -1,2 +1,2 @@
 # Pandas-practice
-I have planned to upload the codes (syntax) that I have found useful while working on datasets using Pandas
+Planning to upload the codes that I find useful while working on Pandas
